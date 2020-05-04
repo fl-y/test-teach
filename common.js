@@ -1,3 +1,3 @@
 function gachissu(a) {
-  return 1;
+  return 3;
 }
